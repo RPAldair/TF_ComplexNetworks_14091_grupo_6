@@ -1,0 +1,6 @@
+service_id,name,capacity,type,location
+S1,Web Server,100,web,DataCenter-A
+S2,Database,80,database,DataCenter-A
+S3,API Gateway,90,api,DataCenter-B
+S4,Cache Server,70,cache,DataCenter-A
+S5,Auth Service,85,auth,DataCenter-B
